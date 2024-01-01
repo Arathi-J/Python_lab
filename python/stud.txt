@@ -1,0 +1,5 @@
+Hello How are you!!!
+My name is Arathi
+I'm a student
+This is my lab question
+write aprogram to copy odd lines of a file stud.txt to odd .txt and copy the enen lines of the file to even.txt??

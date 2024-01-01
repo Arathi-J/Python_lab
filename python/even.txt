@@ -1,0 +1,3 @@
+Hello How are you!!!
+I'm a student
+write aprogram to copy odd lines of a file stud.txt to odd .txt and copy the enen lines of the file to even.txt??
